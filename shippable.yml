@@ -1,6 +1,7 @@
 # Language setting
 language: node_js
 
+build_image: drydock/u14nodpls:tip 
 # Version number
 node_js:
   - 0.10.25
